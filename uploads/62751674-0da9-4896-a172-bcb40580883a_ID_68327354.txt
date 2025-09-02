@@ -1,0 +1,2 @@
+query	age	gender	show_province_id	show_city_id	_c5	term	planid	userid	title	winfoid	meg_trade_name_1st_2b	meg_trade_name_2nd_2b	marketingtargetid
+小四轮翻斗车价格及图片	5	1	33	468	小四能货车	四轮小铲车	1054173039	43485793	免费获取%2D四轮小铲车%2D厂家报价单	1134088022046	机械设备	建筑工程机械	7
